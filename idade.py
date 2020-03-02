@@ -1,0 +1,5 @@
+nome= input('Qual é o seu nome')
+dia= input('Qual é o dia que vc nasceu')
+mes = input('Qual é o mês que vc nasceu')
+ano = input ('Qual é o ano que vc nasceu')
+print ('Ola, meu nome é',nome,',', 'Nasci em',dia, '/' ,mes, '/', ano, ',', 'tenho', 2020 - ano, 'anos')
